@@ -1,7 +1,0 @@
-.env
-.vscode
-test.py
-env/
-__pycache__/
-*.png
-users.json
